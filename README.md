@@ -1,6 +1,8 @@
 # Hi, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ##Portifolio
+
 danielbarbosa.com.br
+
 ## 🔧 Technologies and tools
 ![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&link=https%3A%2F%2Fdotnet.microsoft.com%2Fpt-br%2F)
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://developer.mozilla.org/en-US/docs/Web/javascript) 
